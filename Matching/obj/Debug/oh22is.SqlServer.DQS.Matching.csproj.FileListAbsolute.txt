@@ -1,0 +1,5 @@
+C:\Projects\ssiscomponents.visualstudio.com\SSIS DQS Matching\oh22is.SqlServer.DQS.Matching\bin\Debug\oh22is.SqlServer.DQS.Matching.dll
+C:\Projects\ssiscomponents.visualstudio.com\SSIS DQS Matching\oh22is.SqlServer.DQS.Matching\bin\Debug\oh22is.SqlServer.DQS.Matching.pdb
+C:\Projects\ssiscomponents.visualstudio.com\SSIS DQS Matching\oh22is.SqlServer.DQS.Matching\Matching\obj\Debug\oh22is.SqlServer.DQS.Matching.csprojResolveAssemblyReference.cache
+C:\Projects\ssiscomponents.visualstudio.com\SSIS DQS Matching\oh22is.SqlServer.DQS.Matching\Matching\obj\Debug\oh22is.SqlServer.DQS.Matching.dll
+C:\Projects\ssiscomponents.visualstudio.com\SSIS DQS Matching\oh22is.SqlServer.DQS.Matching\Matching\obj\Debug\oh22is.SqlServer.DQS.Matching.pdb

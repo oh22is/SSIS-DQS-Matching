@@ -1,0 +1,1 @@
+C:\Projects\ssiscomponents.visualstudio.com\SSIS DQS Matching\oh22is.SqlServer.DQS.Matching\Matching\obj\Debug\oh22is.SqlServer2014.DQS.Matching.csprojResolveAssemblyReference.cache

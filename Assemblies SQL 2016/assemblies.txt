@@ -1,0 +1,28 @@
+Please add the following assemblies of the respective SQL Server version to this directory. 
+The Visual Studio project references the assemblies to compile the component for the respective SQL Server versions.
+
+-------------------------------------
+
+Microsoft.ExceptionMessageBox.dll
+Microsoft.SqlServer.Dts.Design.dll
+Microsoft.SqlServer.DTSPipelineWrap.dll
+Microsoft.SQLServer.DTSRuntimeWrap.dll
+Microsoft.SQLServer.ManagedDTS.dll
+Microsoft.SqlServer.PipelineHost.dll
+Microsoft.Ssdqs.Association.dll
+Microsoft.Ssdqs.AssociationRules.dll
+Microsoft.Ssdqs.Cleansing.dll
+Microsoft.Ssdqs.Component.Common.dll
+Microsoft.Ssdqs.Component.DataCorrection.dll
+Microsoft.Ssdqs.Component.DataQualityConnectionManager.dll
+Microsoft.Ssdqs.Core.dll
+Microsoft.Ssdqs.DataService.dll
+Microsoft.Ssdqs.DataValueService.dll
+Microsoft.Ssdqs.dll
+Microsoft.Ssdqs.DomainRules.dll
+Microsoft.Ssdqs.Flow.dll
+Microsoft.Ssdqs.Index.dll
+Microsoft.Ssdqs.Infra.dll
+Microsoft.Ssdqs.Matching.dll
+Microsoft.Ssdqs.Proxy.dll
+Microsoft.Ssdqs.ReferenceData.dll

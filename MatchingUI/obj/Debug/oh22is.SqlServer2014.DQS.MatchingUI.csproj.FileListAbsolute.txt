@@ -1,0 +1,4 @@
+C:\Projects\ssiscomponents.visualstudio.com\SSIS DQS Matching\oh22is.SqlServer.DQS.Matching\MatchingUI\obj\Debug\oh22is.SqlServer2014.DQS.MatchingUI.csprojResolveAssemblyReference.cache
+C:\Projects\ssiscomponents.visualstudio.com\SSIS DQS Matching\oh22is.SqlServer.DQS.Matching\MatchingUI\obj\Debug\oh22is.SqlServer.DQS.FrmMatchingUi.resources
+C:\Projects\ssiscomponents.visualstudio.com\SSIS DQS Matching\oh22is.SqlServer.DQS.Matching\MatchingUI\obj\Debug\oh22is.SqlServer.DQS.Properties.Resources.resources
+C:\Projects\ssiscomponents.visualstudio.com\SSIS DQS Matching\oh22is.SqlServer.DQS.Matching\MatchingUI\obj\Debug\oh22is.SqlServer2014.DQS.MatchingUI.csproj.GenerateResource.Cache

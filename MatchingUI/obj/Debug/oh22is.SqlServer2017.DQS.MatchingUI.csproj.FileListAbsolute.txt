@@ -1,0 +1,7 @@
+C:\Projects\ssiscomponents.visualstudio.com\SSIS DQS Matching\oh22is.SqlServer.DQS.Matching\bin\Debug\oh22is.SqlServer2016.DQS.MatchingUI.dll
+C:\Projects\ssiscomponents.visualstudio.com\SSIS DQS Matching\oh22is.SqlServer.DQS.Matching\bin\Debug\oh22is.SqlServer2016.DQS.MatchingUI.pdb
+C:\Projects\ssiscomponents.visualstudio.com\SSIS DQS Matching\oh22is.SqlServer.DQS.Matching\MatchingUI\obj\Debug\oh22is.SqlServer.DQS.FrmMatchingUi.resources
+C:\Projects\ssiscomponents.visualstudio.com\SSIS DQS Matching\oh22is.SqlServer.DQS.Matching\MatchingUI\obj\Debug\oh22is.SqlServer.DQS.Properties.Resources.resources
+C:\Projects\ssiscomponents.visualstudio.com\SSIS DQS Matching\oh22is.SqlServer.DQS.Matching\MatchingUI\obj\Debug\oh22is.SqlServer2017.DQS.MatchingUI.csproj.GenerateResource.Cache
+C:\Projects\ssiscomponents.visualstudio.com\SSIS DQS Matching\oh22is.SqlServer.DQS.Matching\MatchingUI\obj\Debug\oh22is.SqlServer2016.DQS.MatchingUI.dll
+C:\Projects\ssiscomponents.visualstudio.com\SSIS DQS Matching\oh22is.SqlServer.DQS.Matching\MatchingUI\obj\Debug\oh22is.SqlServer2016.DQS.MatchingUI.pdb
